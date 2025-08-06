@@ -1,7 +1,8 @@
 import os
 
 def demo():
-    list = [1,2,3,4,5,7,8,9,10]
+    print("List Array")
+    list = [1,2,3,4,5,7,8,9,10,11,12]
     list = [1,2,3,4,5,6]
     print("test the git")
     return True
